@@ -1,18 +1,22 @@
 # NLW e-Sports 
 
-![preview] (./.github/preview.png)
+![preview](./.github/preview.jpg)
+
 
 >Trilha Explorer
 
 
 Projeto construido do envento Next level Week da Rocketseat.
 
-[🔗 clique aqui para acessar] (https://jovips.github.io/nlw-esports-explorer)
+[🔗 clique aqui para acessar] (https://jovips.github.io/nlw)
 
 ## 🎮 Tecnologias
  
--HTML
+-HTMl
+
+
 -CSS
+
 -GIT & GITHUB
 
 ## 🤍 Contato
