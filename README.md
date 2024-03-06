@@ -8,7 +8,7 @@
 
 Projeto construido do envento Next level Week da Rocketseat.
 
-[🔗 clique aqui para acessar] (https://jovips.github.io/NLW)
+[🔗 clique aqui para acessar] (https://jovips.github.io/nlw)
 
 ## 🎮 Tecnologias
  
